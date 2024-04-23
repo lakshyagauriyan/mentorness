@@ -1,16 +1,17 @@
-Game-Analysis-Decoding-Game-Behavior
+Game-Analysis-Decoding-Game-Behavior:
 Welcome to my Game Analysis project! This repository contains SQL queries and analyses aimed at uncovering player behavior insights from gaming data.
 
-Features
+Features:
 Analysis of player trends and performance metrics.
 Insights for game developers to optimize strategies and enhance player engagement.
-Insights
-Player Trends
+
+Player Trends:
 Player Progression: Analysis of player progression reveals trends in gameplay and skill development over time.
 Level Completion: Identification of players at Level 0 provides insights into new or inexperienced players, aiding in player support and marketing efforts.
 Device Usage: Exploration of device usage patterns helps understand player preferences and behavior across different gaming platforms.
 Multiple Days Activity: Extraction of unique dates for players who played games on multiple days provides insights into player engagement and retention.
-Performance Metrics
+
+Performance Metrics:
 Kill Counts Analysis: Level 1 code-wise average kill count analysis for players with at least 2 lives earned and 3 stages crossed sheds light on player combat effectiveness.
 Stages Crossed: Total stages crossed analysis by difficulty level for Level 2 players using 'zm_series' devices identifies preferred difficulty levels and device usage patterns.
 Score Rankings: Top score rankings based on each device ID offer insights into player performance and competition within the gaming community.
@@ -20,7 +21,8 @@ Operational Insights
 First Login Records: Identification of first login timestamps for each device ID enables tracking of player onboarding and engagement initiation.
 Score Aggregation: Creation of a function to return the sum of scores for a given player ID streamlines performance evaluation and player ranking processes.
 Headshots Ranking: Implementation of a stored procedure to rank headshots counts by device ID provides a competitive leaderboard and encourages player engagement through challenges and rewards.
-How to Use
+
+How to Use:
 To access the analyses:
 
 Clone the Repository: Clone this GitHub repository to your local machine.
