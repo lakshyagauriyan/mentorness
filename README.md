@@ -3,7 +3,7 @@ Welcome to the Second Major Project done by me during the internship program fro
 Airplane Crashes Analysis using Microsoft PowerBI.
 
 Tools Used:
-1. Microsoft PowerBI For Analyses.
+1. Microsoft PowerBI For Analysis.
 2. Microsoft Office for Powerpoint Presentations and Excel for cleaning and standardizing the data.
 
 How to Use:
