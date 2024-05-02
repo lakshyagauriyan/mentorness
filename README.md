@@ -1,32 +1,18 @@
-Game-Analysis-Decoding-Game-Behavior:
-Welcome to my Game Analysis project! This repository contains SQL queries and analyses aimed at uncovering player behavior insights from gaming data.
+Mentorness Internship Program:
+Welcome to the Projects done by me during the internship program from Mentorness. This repository contains two Projects
+1. Game Analysis using SQL.
+2. Airplane Crashes Analysis using Microsoft PowerBI.
 
-Features:
-Analysis of player trends and performance metrics.
-Insights for game developers to optimize strategies and enhance player engagement.
-
-Player Trends:
-Player Progression: Analysis of player progression reveals trends in gameplay and skill development over time.
-Level Completion: Identification of players at Level 0 provides insights into new or inexperienced players, aiding in player support and marketing efforts.
-Device Usage: Exploration of device usage patterns helps understand player preferences and behavior across different gaming platforms.
-Multiple Days Activity: Extraction of unique dates for players who played games on multiple days provides insights into player engagement and retention.
-
-Performance Metrics:
-Kill Counts Analysis: Level 1 code-wise average kill count analysis for players with at least 2 lives earned and 3 stages crossed sheds light on player combat effectiveness.
-Stages Crossed: Total stages crossed analysis by difficulty level for Level 2 players using 'zm_series' devices identifies preferred difficulty levels and device usage patterns.
-Score Rankings: Top score rankings based on each device ID offer insights into player performance and competition within the gaming community.
-Score Summaries: Top 5 scores based on each difficulty level reveal performance benchmarks and highlight exceptional player achievements.
-Kill Count Accumulation: For each player and date, analysis of cumulative kill counts provides insights into player activity and engagement trends over time.
-Operational Insights
-First Login Records: Identification of first login timestamps for each device ID enables tracking of player onboarding and engagement initiation.
-Score Aggregation: Creation of a function to return the sum of scores for a given player ID streamlines performance evaluation and player ranking processes.
-Headshots Ranking: Implementation of a stored procedure to rank headshots counts by device ID provides a competitive leaderboard and encourages player engagement through challenges and rewards.
+Tools Used:
+1. Microsoft SQL Server,
+2. Microsoft PowerBI For Analyses.
+3. Microsoft Office for Powerpoint Presentations and Excel for cleaning and standardizing the data.
 
 How to Use:
 To access the analyses:
-
 Clone the Repository: Clone this GitHub repository to your local machine.
-Import SQL Files: Use MySQL or your preferred SQL client to import and execute the SQL files.
-Explore Insights: Review the results of the SQL queries to gain insights into player behavior.
-Data Sources
-The data used in this analysis is sourced from the provided SQL database, containing information on player activity, performance, and game elements provided by Mentorness.
+Use Your Choice of Software: Open and Analyse the files.
+Explore Insights: Review the results to gain insights.
+
+Data Sources:
+The data used in this analysis is sourced from the provided database, containing information provided by Mentorness.
