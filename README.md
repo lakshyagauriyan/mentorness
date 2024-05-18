@@ -1,10 +1,12 @@
 Mentorness Internship Program:
-Welcome to the Second Major Project done by me during the internship program from Mentorness. This repository contains:
+Welcome to the Projects done by me during the internship program from Mentorness. This repository contains:
+Game Behaviour Analysis using SQL.
 Airplane Crashes Analysis using Microsoft PowerBI.
 
 Tools Used:
-1. Microsoft PowerBI For Analysis.
-2. Microsoft Office for Powerpoint Presentations and Excel for cleaning and standardizing the data.
+1. Microsoft SQL Server for Analysis.
+2. Microsoft PowerBI For Analysis.
+3. Microsoft Office for Powerpoint Presentations and Excel for cleaning and standardizing the data.
 
 How to Use:
 To access the analyses:
